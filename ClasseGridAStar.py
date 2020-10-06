@@ -1,5 +1,4 @@
 from ClasseCelulaV4 import CelulaGridV4
-from ClasseHeapCelulasGrid import HeapCelulasGrid
 import funcoes_auxiliares as func_aux
 import pygame as pg
 import cores
